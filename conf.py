@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Web Design and Development - Apssdc'
+project = 'Git and GitHub - APSSDC'
 copyright = '2020, APSSDC'
-author = 'APSSDC'
+author = 'RAJA'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
